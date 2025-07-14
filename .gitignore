@@ -1,0 +1,7 @@
+
+# Archivos de modelos
+*.h5
+
+# Entorno virtual
+venv/
+__pycache__/
